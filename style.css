@@ -1,0 +1,133 @@
+.hero {
+  padding: 110px 0;
+  background-color:#3b5a46;
+
+}
+.container {
+  max-width: 980px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 45px;
+}
+h2 {
+  text-align: center;
+  color: #994e12;
+  font-size: 30px;
+}
+h3 {
+  text-align: center;
+  font-size: 25px;
+  color: #b48125;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  padding: 80px 20px;
+ 
+}
+
+hr {
+  border-top: 1px solid #254832;
+}
+
+footer .contact-box {
+  padding: 30px 120px;
+  background:#3b5a46;
+  border-radius: 10px;
+}
+footer .contact-box p {
+  margin: 0;
+}
+
+.work-inquiry {
+  color: white;
+}
+
+
+.work-inquiry-button {
+  background:#994e12;
+  border-radius: 4;
+  color:white;
+  font-size: 18px;
+  line-height: 40px;
+  padding: 15px 40px;
+}
+
+.work-inquiry-button:hover {
+  background-color: white;
+  color: #994e12;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+}
+
+.homepageImg {
+  border-radius: 3px;
+}
+
+.homepageImg:hover {
+  opacity: 0.9;
+}
+
+.upcoming-events-button {
+  background:white;
+  border-radius: 4;
+  color: #3b5a46;
+  font-size: 18px;
+  line-height: 40px;
+  padding: 15px 40px;
+}
+
+.upcoming-events-button:hover {
+  background-color: #994e12;
+  color: white;
+}
+
+
+.instagramIcon {
+  font-size: 34px;
+  color: #254832;
+}
+.center { 
+  text-align:center; 
+  width:100%; 
+} 
+
+.instagramLogo {
+  font-size: 30px;
+  color: #994e12;
+}
+
+.bordered-img {
+  border-style: solid;
+  border-color: #254832;
+}
+
+div.scroll-container {
+  background-color: #3b5a46;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 2px;
+
+}
+
+div.scroll-container img {
+  padding: 10px;
+ 
+}
+.co-pic-1 {
+  max-width: 980px;
+}
