@@ -131,3 +131,41 @@ div.scroll-container img {
 .co-pic-1 {
   max-width: 980px;
 }
+.image-gallery{
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 20px;
+  justify-content: space-evenly;
+}
+.image-gallery-2{
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 20px;
+  justify-content: space-evenly;
+}
+.image-gallery-3{
+  display: grid;
+  grid-template-columns: 250px 250px 250px 250px;
+  grid-gap: 10px;
+  justify-content: space-evenly;
+}
+.purchase-p {
+  text-align: center;
+  font-size: 24px;
+  color: #b48125;
+  
+}
+.purchase-hero {
+  background-color: #3b5a46;
+  text-align: center;
+  padding: 180px 20px;
+}
+.prints-header {
+  color: white;
+  font-size: 50px;
+}
+.ketel-one {
+  width: 980px;
+  height: 500px;
+  
+}
