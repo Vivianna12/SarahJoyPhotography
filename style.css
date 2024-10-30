@@ -76,6 +76,8 @@ footer .contact-box p {
 
 .homepageImg {
   border-radius: 3px;
+  width: 100%;
+  height: auto;
 }
 
 .homepageImg:hover {
