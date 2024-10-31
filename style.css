@@ -124,6 +124,11 @@ footer .contact-box p {
   width:100%; 
 } 
 
+.centered {
+  grid-column: 2;
+  align-self: center; 
+}
+
 .instagramLogo {
   font-size: 30px;
   color: #994e12;
@@ -151,9 +156,10 @@ div.scroll-container img {
 }
 .image-gallery{
   display: grid;
-  grid-template-columns: 400px 400px 400px;
+  grid-template-columns: 300px 300px 300px;
   grid-gap: 20px;
   justify-content: space-evenly;
+  
 }
 
 .image-gallery-2{
